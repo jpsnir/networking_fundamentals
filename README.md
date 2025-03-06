@@ -1,6 +1,12 @@
 # networking_fundamentals
 Repository to understand networking fundaments with python, C++ and linux tools
 
+## Linux networking tools
+1. `nc`
+2. `telnet`
+3. 
+4. `ssh`
+5. 
 
 ## Sockets
 - These are software components - linux implements different protocols with sockets
@@ -15,4 +21,5 @@ Repository to understand networking fundaments with python, C++ and linux tools
 - reliable
 
 ## Datagram
-- datagram b
+- datagram based
+- we can handle packet loss by writing custom checks
