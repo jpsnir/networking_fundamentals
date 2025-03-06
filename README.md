@@ -15,5 +15,4 @@ Repository to understand networking fundaments with python, C++ and linux tools
 - reliable
 
 ## Datagram
-- datagram based
-- 
+- datagram b
