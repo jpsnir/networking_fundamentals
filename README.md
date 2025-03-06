@@ -1,12 +1,16 @@
 # networking_fundamentals
 Repository to understand networking fundaments with python, C++ and linux tools
 
-## Linux networking tools
+## Linux networking command line tools
 1. `nc`
 2. `telnet`
 3. 
 4. `ssh`
-5. 
+5. `lsof`
+   - Check the network sockets in memory
+   ```
+   lsof -i :PORT
+   ```
 
 ## Sockets
 - These are software components - linux implements different protocols with sockets
